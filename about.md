@@ -12,3 +12,5 @@ Details:
 ## Other thoughts
 
 More details here.
+
+theme: minima
