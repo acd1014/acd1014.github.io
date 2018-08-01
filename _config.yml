@@ -1,1 +1,11 @@
+# basic options, i can say whatever here
+title: Minimus Gear
+author: Github User
+email: asdfasdfa@gmail.com
+description: Light Outdoor Gear
+twitter_username: asdfas
+github_username: asdfasd
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman
